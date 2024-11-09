@@ -6,12 +6,12 @@ I'm a third-year student at the University of Danang with a passion for front-en
 
 ## Social Links 🔗
 ---
-   <p align="left">
+  <p align="left">
    <a href="https://www.facebook.com/profile.php?id=100041776819654">
-      <img src="https://www.svgrepo.com/download/448224/facebook.svg" width="32" alt="Facebook"/>
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile" style="margin-right: 10px;"/>
    </a> 
    <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-minh-tu%E1%BA%A5n-526557282">
-      <img src="https://www.svgrepo.com/download/343567/linkedin-network-communication-connection-internet-online.svg" width="30" alt="Linkedin"/>
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
    </a>
 </p>
 
